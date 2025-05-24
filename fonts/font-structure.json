@@ -1,0 +1,366 @@
+{
+  "name": "fonts",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Fira_Sans",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Fira_Sans-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Fira_Sans-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Fira_Sans-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Fira_Sans-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Inter",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Inter-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Inter-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Inter-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Inter-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Karla",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Karla-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Karla-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Karla-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Karla-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Lato",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Lato-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Lato-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Lato-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Lato-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Lora",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Lora-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Lora-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Lora-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Lora-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Merriweather",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Merriweather-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Merriweather-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Merriweather-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Merriweather-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Montserrat",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Montserrat-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Montserrat-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Montserrat-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Montserrat-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Noto_Sans",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Noto_Sans-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Noto_Sans-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Noto_Sans-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Noto_Sans-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Nunito",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Nunito-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Nunito-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Nunito-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Nunito-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Open_Sans",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Open_Sans-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Open_Sans-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Open_Sans-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Open_Sans-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Playfair_Display",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Playfair_Display-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Playfair_Display-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Playfair_Display-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Playfair_Display-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Raleway",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Raleway-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Raleway-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Raleway-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Raleway-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Roboto",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Roboto-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Roboto-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Roboto-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Roboto-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Roboto_Condensed",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Roboto_Condensed-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Roboto_Condensed-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Roboto_Condensed-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Roboto_Condensed-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Rubik",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Rubik-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Rubik-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Rubik-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Rubik-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "Work_Sans",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Work_Sans-Bold.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Work_Sans-BoldItalic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Work_Sans-Italic.ttf",
+          "type": "file"
+        },
+        {
+          "name": "Work_Sans-Regular.ttf",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "font-families.json",
+      "type": "file"
+    },
+    {
+      "name": "font-structure.json",
+      "type": "file"
+    }
+  ]
+}
