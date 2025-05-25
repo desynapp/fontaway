@@ -1,0 +1,1 @@
+cwebp -q 80 input.png -o output.webp // to convert a png img to webp

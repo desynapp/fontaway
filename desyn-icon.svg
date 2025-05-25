@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180" height="200" viewBox="0 0 180 200"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- mask: white shows, black hides -->
+    <mask id="maskD" maskUnits="userSpaceOnUse">
+      <!-- Outer D, from your CSS border-radius:16px 88px 101px 16px -->
+      <path
+        d="
+          M0,16
+          A16,16 0 0 1 16,0
+          L92,0
+          A88,88 0 0 1 180,88
+          L180,99
+          A101,101 0 0 1 79,200
+          L16,200
+          A16,16 0 0 1 0,184
+          Z
+        "
+        fill="white"
+      />
+
+      <!-- TODO: paste your inner D here, e.g. scaled down and centered:
+           <path d="…inner path commands…" fill="black"/>
+      -->
+    </mask>
+  </defs>
+
+  <!-- Four-color fill clipped to D shape -->
+  <g mask="url(#maskD)">
+    <rect x="0"   y="0"   width="90"  height="100" fill="#6E5BFF"/>
+    <rect x="90"  y="0"   width="90"  height="100" fill="#3BA1FF"/>
+    <rect x="0"   y="100" width="90"  height="100" fill="#00C859"/>
+    <rect x="90"  y="100" width="90"  height="100" fill="#FF3B30"/>
+  </g>
+</svg>
